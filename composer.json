@@ -1,0 +1,22 @@
+{
+    "name": "fahoba/ics-calendar",
+    "description": "Calendar subscriptions: any published iCal address — school, club, Outlook, iCloud or Google — shown read-only",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "PolyForm-Shield-1.0.0",
+    "require": {
+        "php": "^8.5",
+        "sabre/vobject": "^4.6",
+        "fahoba/plugin-api": "^0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fahoba\\IcsCalendar\\": "src/"
+        }
+    },
+    "extra": {
+        "fahoba": {
+            "provider": "Fahoba\\IcsCalendar\\IcsCalendarPlugin"
+        }
+    }
+}

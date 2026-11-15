@@ -1,0 +1,19 @@
+{
+    "iCal calendar (link)": "iCal-Kalender (Link)",
+    "Shows a published calendar — school, kindergarten, club, Outlook, iCloud or Google — from its iCal address.": "Zeigt einen veröffentlichten Kalender – Schule, Kindergarten, Verein, Outlook, iCloud oder Google – über seine iCal-Adresse.",
+    "The address usually ends in .ics or starts with webcal://. Outlook calls it “Publish calendar”, Google “Secret address in iCal format”.": "Die Adresse endet meist auf .ics oder beginnt mit webcal://. Outlook nennt das „Kalender veröffentlichen“, Google „Privatadresse im iCal-Format“.",
+    "The calendar is read only: new events go into another calendar, and changes made here are overwritten by the next update.": "Der Kalender wird nur gelesen: Neue Termine kommen in einen anderen Kalender, und Änderungen hier überschreibt die nächste Aktualisierung.",
+    "It is read again every few minutes, but many publishers update their file only a few times a day.": "Er wird alle paar Minuten neu gelesen, viele Anbieter aktualisieren ihre Datei aber nur wenige Male am Tag.",
+    "Connect each further address the same way; every subscription can be removed on its own.": "Jede weitere Adresse verbindest du genauso; jedes Abo lässt sich einzeln entfernen.",
+    "Calendar address": "Kalenderadresse",
+    "Name": "Name",
+    "Football club": "Fußballverein",
+    "Empty: the name the calendar gives itself.": "Leer: der Name, den der Kalender selbst trägt.",
+    "The address starts with https://, http:// or webcal://.": "Die Adresse beginnt mit https://, http:// oder webcal://.",
+    "There is no calendar at this address.": "Unter dieser Adresse ist kein Kalender.",
+    "Subscription": "Abo",
+    "Not reachable or not a public address.": "Nicht erreichbar oder keine öffentliche Adresse.",
+    "The calendar answered with an error (:status).": "Der Kalender hat mit einem Fehler geantwortet (:status).",
+    "The calendar is too large.": "Der Kalender ist zu groß.",
+    "(no title)": "(ohne Titel)"
+}
